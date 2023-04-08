@@ -85,7 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 trailing: const Icon(Icons.shopping_cart),
               ),
               child: Image.network(
-                'https://picsum.photos/300',
+                'https://picsum.photos/250',
                 fit: BoxFit.cover,
               ),
             );
